@@ -1,4 +1,5 @@
 print("this is the calculator app")
+print("Square root feature included")
 
 import math
 
